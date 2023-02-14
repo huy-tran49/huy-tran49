@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am learning React. Feel free to browse my repositories!
 
 <!--
 **huy-tran49/huy-tran49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
