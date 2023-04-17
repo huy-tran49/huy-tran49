@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently learning React. Feel free to browse my repositories!
+I'm Huy, a software engineer specialize in MERN tech stack and enjoy solving complex problems using code. When I'm not coding, you can find me doing basketball related activities. I'm always eager to learn and collaborate on new projects, so feel free to reach out and connect with me!"
 
 <!--
 **huy-tran49/huy-tran49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
